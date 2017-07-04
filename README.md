@@ -1,2 +1,0 @@
-# java
-Java test programs
